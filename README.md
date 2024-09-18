@@ -25,6 +25,8 @@ sudo apt install fastfetch
 ```
 </details>
 
+<br>
+
 <p> <strong> Installation </strong> </p>
 
 ```shell
@@ -40,13 +42,19 @@ To ensure everything is set up correctly, run Fastfetch in your terminal
 ```shell
 fastfetch
 ```
+<br>
+
 <p> <strong> Customization </strong> </p>
 
 Feel free to modify the configuration files in the `~/.config/fastfetch/` directory to suit your preferences. You can customize various aspects, including colors, icons, and the layout of the information displayed.
 
+<br>
+
 <p> <strong>  Contributing </strong> </p>
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/aayushx402/fastfetch/).
+
+<br>
 
 <p> <strong> License </strong> </p>
 
