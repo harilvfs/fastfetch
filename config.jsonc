@@ -92,6 +92,11 @@
             "keyColor": "34"
         },
         {
+             "type": "swap",
+            "key": "󰾴 ",
+            "keyColor": "34"
+        },
+        {
             "type": "disk",
             "key": " ",
             "keyColor": "34"
