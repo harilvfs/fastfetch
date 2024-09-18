@@ -13,8 +13,7 @@ cp -r fastfetch/* ~/.config/fastfetch/
 ```
 
 <p> <strong> Verify Installation </strong> </p>
-
-**To ensure everything is set up correctly, run Fastfetch in your terminal:**
+To ensure everything is set up correctly, run Fastfetch in your terminal
 
 ```shell
 fastfetch
