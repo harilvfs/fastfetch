@@ -1,6 +1,6 @@
-<p align="center"> <strong> Fastfetch Configuration </strong></p>
+<p align="center"> <strong> **Fastfetch Configuration** </strong></p>
 
-## Overview
+<strong> Overview </strong>
 
 This repository contains my custom Fastfetch configuration. Fastfetch is a tool to display system information in the terminal, and this configuration provides a personalized setup to enhance your terminal experience.
 
