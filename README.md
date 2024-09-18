@@ -4,6 +4,25 @@
 
 This repository contains my custom Fastfetch configuration. Fastfetch is a tool to display system information in the terminal, and this configuration provides a personalized setup to enhance your terminal experience.
 
+<p> <strong> Install Dependencies </strong> </p>
+
+Before using this configuration, ensure you have Fastfetch installed.
+
+<details>
+  <summary>Arch Linux</summary>
+
+```bash
+sudo pacman -S fastfetch
+```
+</details>
+
+<details> <summary>Debian/Ubuntu-based</summary>
+
+```bash
+sudo apt install fastfetch
+```
+</details>
+
 <p> <strong> Installation </strong> </p>
 
 ```shell
