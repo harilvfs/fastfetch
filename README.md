@@ -1,4 +1,4 @@
-# Fastfetch Configuration
+<p align="center">  Fastfetch Configuration </p>
 
 ## Overview
 
