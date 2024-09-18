@@ -4,6 +4,8 @@
 
 This repository contains my custom Fastfetch configuration. Fastfetch is a tool to display system information in the terminal, and this configuration provides a personalized setup to enhance your terminal experience.
 
+<br>
+
 <p> <strong> Install Dependencies </strong> </p>
 
 Before using this configuration, ensure you have Fastfetch installed.
