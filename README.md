@@ -1,6 +1,6 @@
 <p align="center"> <strong> Fastfetch Configuration </strong></p>
 
-![Fastfetch](https://github.com/aayushx402/fastfetch/blob/main/preview.png)
+![Fastfetch](https://github.com/harilvfs/fastfetch/blob/main/preview.png)
 
 <strong> Overview </strong>
 
@@ -32,7 +32,7 @@ sudo apt install fastfetch
 <p> <strong> Installation </strong> </p>
 
 ```shell
-git clone https://github.com/aayushx402/fastfetch.git
+git clone https://github.com/harilvfs
 mkdir -p ~/.config/fastfetch
 cp -r fastfetch/* ~/.config/fastfetch/
 ```
@@ -54,7 +54,7 @@ Feel free to modify the configuration files in the `~/.config/fastfetch/` direct
 
 <p> <strong>  Contributing </strong> </p>
 
-If you have suggestions or improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/aayushx402/fastfetch/).
+If you have suggestions or improvements, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/harilvfs/fastfetch).
 
 <br>
 
