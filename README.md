@@ -1,5 +1,5 @@
 > [!NOTE]
-> For the people who came from my Reddit post, the Reddit post config is on the [old-days](https://github.com/harilvfs/fastfetch/tree/old-days) branch, you can have a look there. If you have some issue or improvement for that, I will appreciate your feedback. You can just create an issue, or if you have any improvement idea there, you can contribute too.
+> For the people who came from my Reddit post, the Reddit post config is on the [old-days](https://github.com/harilvfs/fastfetch/tree/old-days) branch, you can have a look there.
 
 <p align="center"> <strong> Fastfetch Configuration </strong></p>
 
